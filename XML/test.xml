@@ -1,0 +1,22 @@
+<school>
+ <colleage>
+	<student>
+			<name>luchi</name>
+			<sex>male</sex>
+	</student>
+	<student>
+			<name>lushuiye</name>
+			<sex>female</sex>
+	</student>
+	<student>
+		<name>zhangsan</name>
+		<sex>male</sex>
+	</student>
+ </colleage>
+ 
+<gate>
+	<color>red</color>
+	<text>welcome to graduate school</text>
+</gate>
+ 
+</school>
